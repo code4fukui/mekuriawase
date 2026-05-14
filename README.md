@@ -10,7 +10,7 @@ A memory matching game that uses tourism open data from Japan. Flip the cards to
 
 ## Demo
 
-Play the game live at: **https://code4fukui.github.io/mekuriawase/**
+Play the game live at: **https://github.com/code4fukui/mekuriawase
 
 ## Features
 

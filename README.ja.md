@@ -8,7 +8,7 @@
 
 ## デモ
 
-ブラウザ上でゲームをプレイできます: **https://code4fukui.github.io/mekuriawase/**
+ブラウザ上でゲームをプレイできます: **https://github.com/code4fukui/mekuriawase
 
 ## 特徴
 
